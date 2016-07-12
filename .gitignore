@@ -1,0 +1,5 @@
+dump.rdb
+*.swp
+*.swo
+*.pyc
+.DS_Store
