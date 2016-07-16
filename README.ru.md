@@ -8,7 +8,7 @@
 
 ![Akkerman](https://wikimedia.org/api/rest_v1/media/math/render/svg/c8c2aa0b20532014ea35c4a09c2380a01b3d1423)
 
-Реализуйте ```ackermann(m,n)```.
+Реализуйте и экспортируйте функцию ```ackermann(m,n)```.
 
 ```javascript
 ackermann(0, 0); // 1
